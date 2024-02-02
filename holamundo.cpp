@@ -6,7 +6,9 @@ HOLA MUNDO
 #include <iostream>
 using namespace std: 
 
-int main {
-  cout<<"HolaMundo";
-  return 0;
+int main(){
+	cout<<"HolaMundo";
+	cout<<"TextoNuevo";
+	return 0;
+
 }
